@@ -73,3 +73,9 @@ streamlit run app/main.py
 - Arquitectura RAG: langchain, ChromaDB, HuggingFace (BAAI/bge-m3), Groq (Llama 3)
 - Evaluacion de RAG: ragas, datasets
 - Interfaz de usuario: Streamlit
+
+---
+## Link del Video Youtube
+```bash
+[python ingest_pdfs.py](https://www.youtube.com/watch?v=3vyvfYfrvow)
+```
