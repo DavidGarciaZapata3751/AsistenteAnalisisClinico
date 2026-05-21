@@ -77,5 +77,5 @@ streamlit run app/main.py
 ---
 ## Link del Video Youtube
 ```bash
-[python ingest_pdfs.py](https://www.youtube.com/watch?v=3vyvfYfrvow)
+https://www.youtube.com/watch?v=3vyvfYfrvow
 ```
