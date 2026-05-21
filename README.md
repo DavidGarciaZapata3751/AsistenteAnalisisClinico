@@ -79,3 +79,8 @@ streamlit run app/main.py
 ```bash
 https://www.youtube.com/watch?v=3vyvfYfrvow
 ```
+
+## Integrantes
+David García Zapata (dgarciaz1@eafit.edu.co)
+Samuel LLano Madrigal (sllanom@eafit.edu.co)
+
